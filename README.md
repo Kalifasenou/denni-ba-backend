@@ -3,7 +3,7 @@
 **Den Ni Ba** (\"enfant et maman\" en bambara) — backend API pour recenser lieux sûrs et fournir un forum d'échange vocal pour jeunes femmes à Bamako.
 
 ## Objectif
-MVP : recensement lieux (centres de santé, pharmacies, associations), micro-forum (posts courts + vocaux), auth JWT. Déploiement cible : 30 août 2025.
+MVP : recensement lieux (centres de santé, pharmacies, associations), micro-forum (posts courts + vocaux), auth JWT. 
 
 ## Setup local (rapide)
 1. Créer et activer virtualenv:
@@ -30,4 +30,4 @@ MVP : recensement lieux (centres de santé, pharmacies, associations), micro-for
 - `EVOLUTION.md` contient le journal d'avancement et messages prêts pour X / ALX eHub.
 
 ## Déploiement
-Voir `EVOLUTION.md` pour checklist rapide Railay/Render. Contact pour aide au déploiement : [ton nom / contact].
+Voir `EVOLUTION.md` pour checklist rapide Railay/Render.
